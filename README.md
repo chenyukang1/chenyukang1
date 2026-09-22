@@ -2,7 +2,7 @@
 
 Building AI agents and developer tooling
 
-[![Email](https://img.shields.io/badge/Email-mingsiangchang%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cyk4347@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cyk4347%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cyk4347@gmail.com)
 
 ---
 
@@ -10,10 +10,10 @@ Building AI agents and developer tooling
 
 #### Agent
 
-- **[lark-agent-bot](https://github.com/chenyukang1/lark-agent-bot)** [![GitHub Stars](https://img.shields.io/github/stars/chenyukang1/lark-agent-bot?style=social)](https://github.com/chenyukang1/lark-agent-bot): Lark agent bot.
+- **[lark-agent-bot](https://github.com/chenyukang1/lark-agent-bot)** (https://github.com/chenyukang1/lark-agent-bot): Lark agent bot.
 
 #### Framework
-- **[crawler-go](https://github.com/chenyukang1/crawler-go)** [![GitHub Stars](https://img.shields.io/github/stars/chenyukang1/crawler-go?style=social)](https://github.com/chenyukang1/crawler-go): A web scraping framework implemented in Go.
+- **[crawler-go](https://github.com/chenyukang1/crawler-go)** (https://github.com/chenyukang1/crawler-go): A web scraping framework implemented in Go.
 
 ### 🌱 Open Source Contributions
 
